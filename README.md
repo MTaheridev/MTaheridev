@@ -42,7 +42,7 @@ Welcome to my GitHub! I'm a **Frontend Developer** with over 7 years of experien
    - Smooth transitions and animations
    - Fully responsive design
 
-   ![VRSeat Preview](https://via.placeholder.com/600x400)
+   ![VRSeat Preview](concert.PNG)
 
 ---
 
@@ -53,7 +53,7 @@ Welcome to my GitHub! I'm a **Frontend Developer** with over 7 years of experien
    - Detailed product listings
    - Seamless shopping flow
 
-   ![Everbloom Preview](https://via.placeholder.com/600x400)
+   ![Everbloom Preview](everbloom.PNG)
 
 ---
 
@@ -61,7 +61,15 @@ Welcome to my GitHub! I'm a **Frontend Developer** with over 7 years of experien
    _Showcasing Live Projects & Design Style_  
    🎨 Designed and developed my own portfolio website to demonstrate my skills, projects, and design philosophy.
 
-   ![Portfolio Preview](https://via.placeholder.com/600x400)
+   ![Portfolio Preview](portfolio.PNG)
+
+---
+
+### 3. **[Solo Weather](https://solo-weather.vercel.app/)**
+   _Showcasing Live Projects & Design Style_  
+   🎨 Just a simple Weather App.
+
+   ![Portfolio Preview](weather.PNG)
 
 ---
 
