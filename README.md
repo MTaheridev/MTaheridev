@@ -1,113 +1,143 @@
-# Mohammad Taheri - Frontend Developer 🖥️
-
-Welcome to my GitHub! I'm a **Frontend Developer** with over 7 years of experience in building scalable, responsive, and SEO-friendly web applications using **Next.js**, **React**, and **Tailwind CSS**. Here's a little more about me and some of my work!
-
----
-
-## 🚀 About Me
-
-🎯 **Specialization**: 
-- 🖥️ **Frontend Development** with **Next.js**, **React.js**, **Tailwind CSS**
-- 🔍 **SEO Optimization** and **Performance Enhancement**
-
-🌟 **Current Role**: 
-- Freelance Frontend Developer (Remote)
-- Co-founder & Frontend Developer at **PROLLET** (Crypto Arbitrage Platform)
-
-### 📍 Location
-- Mashhad, Iran
-
-📧 **Email**: [Mohammadtaheri.dev@gmail.com](mailto:Mohammadtaheri.dev@gmail.com)  
-🔗 **LinkedIn**: [Mohammad Taheri](https://www.linkedin.com/in/mohammad-taheri-6b5ba0241)  
-🌐 **Portfolio Website**: [m-taheri.vercel.app](https://m-taheri.vercel.app/)
+<h1 align="center">Hey there, I'm Mohammad Taheri! 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Frontend+Developer+%7C+React+%7C+Next.js+%7C+Tailwind+CSS;Lifelong+learner+and+code+explorer!+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-Next.js-informational?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-Expert-blue?logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-Designer-38BDF8?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Mashhad%2C%20Iran-orange?logo=googlemaps" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=flat" />
+</p>
+<p align="center">
+  <a href="https://m-taheri.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/My%20Portfolio-222?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:Mohammadtaheri.dev@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohammad-taheri-6b5ba0241" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧑‍💻 About Me
 
-🔧 **Frontend Technologies**:
-- **JavaScript** | **TypeScript** | **React.js** | **Next.js** | **HTML5** | **CSS3** | **Tailwind CSS**
-
-🛠️ **Tools & Platforms**:
-- **Git** | **Vercel** | **Docker** | **Agile Methodologies**
-
----
-
-## 🌱 Featured Projects
-
-### 1. **[VRSeat](https://3d-concert-hall.vercel.app/)**
-   _3D-enabled Immersive Seating Experience (Next.js/Three.js)_  
-   🏟️ Developed an interactive, responsive, and visually immersive seating experience for concert halls.  
-   🚀 **Features**:
-   - Smooth transitions and animations
-   - Fully responsive design
-
-   ![VRSeat Preview](concert.PNG)
+- 🎨 **I bring ideas to life on the web!**
+- 💼 Freelancer & Co-founder at **PROLLET** (Crypto Arbitrage Platform)
+- 🌱 Always learning the latest in frontend, 3D, and UX
+- 🗺️ Based in Mashhad, Iran, working globally
 
 ---
 
-### 2. **[Everbloom](https://everbloom-mt.vercel.app/)**
-   _E-commerce Platform for Apartment Plants (Next.js/Tailwind CSS)_  
-   🌱 Developed an online store to showcase and sell apartment plants, offering a clean, user-friendly shopping experience.  
-   🚀 **Features**:
-   - Detailed product listings
-   - Seamless shopping flow
+## 🛠️ Tech Stack
 
-   ![Everbloom Preview](everbloom.PNG)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,js,html,css,git,docker,vercel" />
+</p>
 
 ---
 
-### 3. **[Personal Portfolio](https://m-taheri.vercel.app/)**
-   _Showcasing Live Projects & Design Style_  
-   🎨 Designed and developed my own portfolio website to demonstrate my skills, projects, and design philosophy.
+## 🚩 Featured Projects
 
-   ![Portfolio Preview](portfolio.PNG)
+### 🎟️ [VRSeat](https://3d-concert-hall.vercel.app/)
+<p align="center">
+  <b>Immersive 3D Concert Hall Experience</b><br>
+  <img src="concert.PNG" alt="VRSeat Preview">
+</p>
+
+- **Role:** Lead Frontend Developer & 3D UX Designer  
+- **Tech:** Next.js, Three.js, React, Tailwind CSS  
+- **What makes it cool:**  
+  - Interactive 3D seat selection lets users explore and pick their favorite spot as if they are inside a real concert hall.
+  - Smooth, cinematic transitions and custom 3D animations deliver a unique and engaging experience.
+  - Fully responsive and touch-friendly, so you can enjoy it on any device.
+  - Custom lighting and immersive visual effects.
+- **Challenge:** Bringing real concert vibes to your browser 🏟️
 
 ---
 
-### 3. **[Solo Weather](https://solo-weather.vercel.app/)**
-   _Showcasing Live Projects & Design Style_  
-   🎨 Just a simple Weather App.
+### 🪴 [Everbloom](https://everbloom-mt.vercel.app/)
+<p align="center">
+  <b>Modern E-commerce for Apartment Plants</b><br>
+  <img src="everbloom.PNG" alt="Everbloom Preview">
+</p>
 
-   ![Portfolio Preview](weather.PNG)
+- **Role:** Full-stack Developer  
+- **Tech:** Next.js, Tailwind CSS, TypeScript  
+- **What makes it cool:**  
+  - Real-time search and advanced filtering for discovering the perfect plant.
+  - Minimal, user-friendly UI designed for smooth shopping and browsing.
+  - Custom cart logic and a seamless checkout experience.
+  - Built to be mobile-first, fast, and fun to use.
+- **Fun fact:** Designed to help plant-lovers discover greenery for any home 🌱
+
+---
+
+### 🧑‍💼 [Personal Portfolio](https://m-taheri.vercel.app/)
+<p align="center">
+  <b>Your Window Into My Work</b><br>
+  <img src="portfolio.PNG" alt="Portfolio Preview">
+</p>
+
+- **Role:** Designer & Developer  
+- **Tech:** Next.js, Tailwind CSS, Framer Motion  
+- **What makes it cool:**  
+  - Interactive showcases, smooth scrolls, and lively animations—built to catch the eye.
+  - Custom-built components to express my brand and personality.
+  - SEO-optimized to shine on searches and reach recruiters and clients.
+- **Behind the scenes:** Every animation and section hand-crafted!
+
+---
+
+### ☀️ [Solo Weather](https://solo-weather.vercel.app/)
+<p align="center">
+  <b>Simple Weather App, Simply Beautiful</b><br>
+  <img src="weather.PNG" alt="Weather Preview">
+</p>
+
+- **Role:** Frontend Developer  
+- **Tech:** React, OpenWeatherMap API, Tailwind CSS  
+- **What makes it cool:**  
+  - Clean, minimal design and a focus on speed.
+  - Get up-to-date weather info by location, at a glance.
+  - Great as a quick reference for daily weather—plus, the UI is super chill!
+- **Why I built it:** For fun and to practice using APIs on the frontend! ⛅
 
 ---
 
 ## 🎓 Education
 
-### BSc in **Computer Engineering**
-   _Azad University – Mashhad, Iran (Sep 2017 – Jun 2021)_  
-   🏆 Graduated with a high GPA.  
-   💡 Completed internships focusing on web development and backend systems.
+**BSc in Computer Engineering**  
+Azad University – Mashhad, Iran (2017–2021)  
+- Graduated with a high GPA  
+- Internships in web and backend development
 
 ---
 
-## 🏅 Certifications
+## 🏆 Certifications & Achievements
 
-- **Python Programming Certification** – Technical and Vocational Training Organization of Iran (2024)
-
----
-
-## 📈 Achievements
-
-- Improved application load times by **25%** by implementing efficient frontend architectures.
-- Boosted **SEO** and **performance** scores, achieving up to **30%** better Google PageSpeed scores.
-- Increased client leads by **25%** through responsive CRM and portfolio website development.
+- 🐍 **Python Programming Certification** – Technical and Vocational Training Organization of Iran (2024)
+- 🚀 Improved app load times by **25%** through efficient frontend architectures
+- 📈 Boosted SEO and performance scores by **30%**
+- 💼 Helped clients increase leads by **25%** with better portfolio and CRM sites
 
 ---
 
-## 📫 Get in Touch
+## 🎉 Did You Know?
 
-Feel free to explore my repositories, check out my projects, or reach out if you'd like to collaborate on something exciting!  
+<p align="center">
+  🍕 I love code, coffee, and pizza in equal measure <br>
+  🎮 Big fan of indie games and 3D web experiments <br>
+  🐱 Cat person. My code reviews are powered by purrs!
+</p>
 
 ---
 
-> “Great things are not done by impulse, but by a series of small things brought together.” – Vincent Van Gogh
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://m-taheri.vercel.app/">Portfolio Website</a> • 
+  <a href="https://www.linkedin.com/in/mohammad-taheri-6b5ba0241">LinkedIn</a> • 
+  <a href="mailto:Mohammadtaheri.dev@gmail.com">Email Me</a>
+</p>
 
 ---
 
-## 💼 Let's Connect
-
-🔗 **[LinkedIn Profile](https://www.linkedin.com/in/mohammad-taheri-6b5ba0241)**  
-📧 **[Email me!](mailto:Mohammadtaheri.dev@gmail.com)**  
-🌐 **[Visit my Portfolio](https://m-taheri.vercel.app/)**
+<p align="center">“Great things are not done by impulse, but by a series of small things brought together.”<br>— Vincent Van Gogh</p>
