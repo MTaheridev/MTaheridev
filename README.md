@@ -1,4 +1,3 @@
-https://go.mrkkc.ir/sub/YmVnYWVpLDE3NTU3OTEzNjEROK5T9kBjs
 
 <h1 align="center">Hey there, I'm Mohammad Taheri! 👋</h1>
 <p align="center">
