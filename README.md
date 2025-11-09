@@ -74,7 +74,7 @@
 ### 🧑‍💼 [Personal Portfolio](https://taheri.vercel.app/)
 <p align="center">
   <b>Your Window Into My Work</b><br>
-  <img src="portfolio.PNG" alt="Portfolio Preview">
+  <img src="portfolio.png" alt="Portfolio Preview">
 </p>
 
 - **Role:** Designer & Developer  
