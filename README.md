@@ -71,7 +71,7 @@
 
 ---
 
-### 🧑‍💼 [Personal Portfolio](https://m-taheri.vercel.app/)
+### 🧑‍💼 [Personal Portfolio](https://taheri.vercel.app/)
 <p align="center">
   <b>Your Window Into My Work</b><br>
   <img src="portfolio.PNG" alt="Portfolio Preview">
