@@ -23,7 +23,7 @@
 - 🎨 **I bring ideas to life on the web!**
 - 💼 Freelancer & Co-founder at **PROLLET** (Crypto Arbitrage Platform)
 - 🌱 Always learning the latest in frontend, 3D, and UX
-- 🗺️ Based in Mashhad, Iran, working globally
+- 🗺️ Based in Neyshabour, Iran, working globally
 
 ---
 
