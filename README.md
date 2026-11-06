@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Mohammad Taheri! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Full-Stack+Developer+%7C+NestJS+%7C+Next.js+%7C+TypeScript;Building+scalable+web+applications+from+frontend+to+backend+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Full-Stack+Developer+%7C+NestJS+%7C+Next.js+%7C+TypeScript+%7C+Product+Builder" />
 </p>
 
 <p align="center">
@@ -70,6 +70,25 @@
 ---
 
 ## 🚩 Featured Projects
+
+### 🧠 [Qureka](https://github.com/MTaheridev/Qureka)
+
+<p align="center">
+  <b>AI-powered database reporting assistant</b><br>
+  <img src="https://raw.githubusercontent.com/MTaheridev/Qureka/main/public/logo.png" alt="Qureka logo" width="120" height="120">
+</p>
+
+* **Role:** Full-Stack Developer
+* **Tech:** Electron, Next.js, TypeScript, Prisma, PostgreSQL, MySQL, MSSQL, SQLite
+* **What makes it cool:**
+
+  * Ask questions in plain language and get safe, query-driven insights from your database.
+  * Read-only architecture with SQL guardrails to prevent accidental writes.
+  * Multi-engine support and export options for CSV, Excel, and PDF reports.
+  * Built for desktop-first AI-assisted analytics with a polished, modern interface.
+* **Challenge:** Making data analysis conversational, trustworthy, and accessible for non-technical users.
+
+---
 
 ### 🎟️ [VRSeat](https://3d-concert-hall.vercel.app/)
 
