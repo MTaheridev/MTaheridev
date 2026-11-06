@@ -75,7 +75,7 @@
 
 <p align="center">
   <b>AI-powered database reporting assistant</b><br>
-  <img src="queryka.PNG" alt="Qureka logo" width="120" height="120">
+  <img src="queryka.PNG" alt="Qureka logo">
 </p>
 
 * **Role:** Full-Stack Developer
