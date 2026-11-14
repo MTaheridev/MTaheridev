@@ -106,7 +106,13 @@ I believe good software engineering is not just about writing code. It is about 
 
 ### 1. AutoBI — AI-Powered Business Intelligence
 
+[GitHub Repository](https://github.com/MTaheridev/AutoBI)
+
 **An intelligent analytics platform that transforms natural-language questions into database-driven dashboards and insights.**
+
+<p align="center">
+  <img src="autobi.PNG" alt="Qureka application preview" width="800" />
+</p>
 
 - Designed an architecture around database intelligence, AI query generation, and dashboard generation.
 - Supports a provider-independent AI integration approach.
